@@ -1,0 +1,98 @@
+01 – Desmaia imediatamente. Condição inconsciente.
+02 – Grita sem parar e fica imobilizado. 
+03 – Foge em pânico. Perde uma ação para se afastar.
+04 – Começa a gargalhar de desespero. Pode apenas fazer uma ação por rodada  
+05 – Medo incontrolável e paralisia. 
+06 – Atitude suicida: tenta se matar ou se jogar no perigo que causou a insanidade.  
+07 – Atitude homicida: tenta matar um aliado, que vê como a causa do que está acontecendo. (Um ataque) 
+08 – Alucinação horrenda relacionada com a situação. 
+09 – Sem ação e totalmente sugestionável, faz o que os outros mandam, perde vontade própria. 
+10 – Delírio, acha que existem coisas devorando o próprio corpo. 
+11 – Cai no chão e assume posição fetal, ignorando os eventos. 
+12 – Começa a comer algo estranho, terra, morde a própria mão, etc. 
+13 – Arranha a face com as mãos, causando ferimentos. (1d2 de dano). (Se machucar é ação livre) 
+14 – Arranca os cabelos enquanto grita com horror. 1D4 tufos de cabelo (1 de dano pro cada)
+15 – Machuca os olhos tentando arrancá-los enquanto grita. 
+16 – Começa a falar rápido e coisas sem sentido, “logorréia”. 
+17 – Chora compulsivamente em desespero. 
+18 – Mania, acha que é poderoso e que pode fazer qualquer coisa.(Faça uma ação imprudente.) 
+19 – Perde a fala.
+20 – Perde a audição
+21 – Perde a visão.
+22 – Sente que o corpo está pegando fogo. Perde a ação de movimento tentando apagar o fogo. 
+23 – Sente que tem milhares de insetos por baixo de sua pele. Perde a ação de movimento tentando  tirar os insetos.
+24 – Vê seus aliados como mortos vivos. Você não fica perto deles, gaste sua ação de movimento para se afastar o máximo. 
+25 – Tem uma visão da própria morte e acredita que morreu. Fique abalado. 
+26 – Bate a cabeça na parede, ou em alguma coisa, pode pegar uma pedra e bate na própria cabeça. (Apenas uma vez, ação livre) 2 de dano. 
+27 – Vê seus braços se transformando em tentáculos. Solta tudo que está na sua mão. 
+28 – Tenta estrangular um aliado. Se aproxima de um aliado e caso possível, tenta estrangular (ação padrão).
+29 – Tenta estrangular a si mesmo. Começa a se estrangular. Ficando com a condição asfixiado. 
+30 – Começa a rezar compulsivamente. 
+31 – Esquece a própria identidade. Esquece tudo o que está acontecendo. 
+32 – Esquece o idioma que fala. [boa sorte]
+33 – Não reconhece nenhum aliado, considera todos como inimigos. 
+34 – Reconhece o inimigo como seu melhor amigo. Não pode atacar os inimigos. 
+35 – Olha para seus aliados e acha que eles são um membro de sua família, sua mãe ou pai. 
+36 – Infantilismo, reverte a idade mental para a idade de 3 anos. Perdendo a ação padrão.
+37 – Perde o movimento dos braços. 
+38 – Perde o movimento das pernas. 
+39 – Não consegue respirar direito (-2 fortitude), fica tonto (-1 ataque) e se movimenta lentamente (-1 metro ). 
+40 – Vomita tudo que tem no estômago. Teste de fortitude (dt 15), caso não passe fica enjoado. 
+41- Sai Ileso
+42 – Começa a dar socos no próprio peito para tentar fazer com que o coração pare. (1d2 de dano por soco) (1d4 socos) 
+43 – Anda em círculos falando compulsivamente. Perde a ação de movimento. 
+44 – Começa a suar e a piscar sem parar, enquanto o corpo treme de forma incontrolável. (-2 de pontaria) 
+45 – Um tique nervoso incontrolável toma conta de sua face. (-1 diplomacia e +1 intimidação). 
+46 – Abraça a si mesmo, fecha os olhos e grita sem parar que tudo é apenas um pesadelo e que ele vai acordar a qualquer hora.
+47 – Abraça um aliado e não larga enquanto a insanidade durar, acreditando que se largar o aliado, ele riá morrer. (O alvo fica enredado) 
+48 – Começa a cantar uma música de infância enquanto chora morrendo de medo. 
+49 – Começa a reviver uma cena da infância com seu pai ou mãe. 
+50 – Tem convulsões e cai no chão com se fosse um ataque epiléptico. Perde a ação, teste de medicina também funciona para retirar a condição.
+51 – Sai Ileso
+52 – As pernas tremem sem parar e tem dificuldade de andar ou ficar em pé. (Se desloca menos) 
+53 – Escuta as batidas do próprio coração como sons ensurdecedores, coloca as mãos nas orelhas e grita que quer que o próprio coração pare! 
+54 – Vê uma luz forte, de onde uma voz lhe diz que tudo vai estar bem. O personagem não sai do lugar e sorri beatificamente. (Não pode fazer ações ofensivas) 
+55 – O personagem grita “tudo está perdido! ” E se joga no chão berrando e chorando! O personagem fica caído. 
+56 – O personagem fecha os olhos e diz “isso é tudo um sonho! ” E acredita que pode fazer tudo desaparecer com a mente. 
+57 – O personagem olha seus aliados e os vê como monstros horrendos. Vontade (dt 10+2 por aliado no local), caso não passe, dano de sanidade, 1d4 por aliado no local. 
+58 – O personagem acha que tem marimbondos dentro da cabeça tentando sair. Testes de intelecto causam 2 de dano mental. 
+59 – O personagem acredita que seus pés estão colados no chão e não consegue tirar os pés de onde está. Ele grita desesperado e quer sair de onde está. Não consegue se mover 
+60 – O personagem acha que sangue está escorrendo dos seus olhos e ouvidos, em cataratas. Fica parcialmente cego. [50% de acerto, par em d4]
+62 – A língua do personagem se enrosca em sua boca e o deixa com dificuldade de respirar. Fica asfixiado. 
+63 – O personagem olha para sua barriga e vê suas tripas saindo para fora e caindo no chão, ele tenta catar as tripas. Gasta uma ação de movimento para pega-las. 
+64 – O personagem acha que sua mão está possuída por um demônio e quer arrancá-la do braço. Não pode usar habilidade “combater com duas armas” ou segurar armas pesadas. 
+65 – O personagem tem uma depressão profunda e acha que vai morrer nesse momento, ele sabe que vai morrer e desiste de tudo. Perde o turno. 
+66 – A metade direita do corpo do personagem fica paralisada e sem sentir nada. Reduz movimentação em 1 quadrado e não pode usar habilidade “combater com duas armas” ou segurar armas pesadas 
+67 – A metade esquerda do corpo do personagem fica paralisada e sem sentir nada. Reduz movimentação em 1 quadrado e não pode usar habilidade “combater com duas armas” ou segurar armas pesadas 
+68 – Todos os sons que o personagem escuta ficam ensurdecedores. Se alguém falar com você, faça um teste de intuição DT20 para entender o que estão falando.
+69 – Todos os cheiros que o personagem sente ficam insuportáveis. Teste de fortitude (dt 20), caso não passe, fica enjoado. 
+70 – Tudo que o personagem vê fica com cores fortíssimas e ele não consegue mais ficar com os olhos abertos. Parcialmente cego. 
+71 – O personagem acha que o chão ganha uma consistência líquida e ele sente que está afundando, como em areia movediça. Todo turno precisa andar. 
+72 – Trava os dentes de medo ao ponto de fazer sangras a gengiva e trincar um dente. Sua comunicação é reduzida, apenas uma palavra por turno. 
+73 – Agarra as orelhas e as aperta com força enquanto solta um grito primal! 
+74 – Bate com força na cabeça, várias vezes, falando coisas incoerentes. 1d4+2 de dano por porrada. (Uma porrada por turno) Teste de fortitude (DT 15) para reduzir à metade. 
+75 – Começa a conversar com si mesmo, tentando convencer a si mesmo de que não está louco. 
+76 – Cai no chão de joelhos e levanta as mãos para o céu pedindo perdão. Fica caído. 
+77 – Acha que a própria pele está caindo em pedaços, tenta pegar os pedaços e colocar de volta no rosto. Para você, está doendo fisicamente, -2 de sanidade. 
+78 – O personagem é acometido por dores de cabeça fortíssimas e enlouquecedoras. 1d6+1 de dano físico ou 1d6+1 de dano mental. [Alternado por rodada]
+79 – A visão fica enevoada, ele vê tudo como se fosse em uma neblina forte, esfregando os olhos para ver se consegue clarear a visão. (-2 para acertar pessoas em testes de ataque.) 
+80 – O personagem começa a falar desesperado em uma língua inventada que ninguém entende. [Não pode se comunicar verbalmente]
+81 – O personagem tem um acesso de fúria agressiva, e direciona sua raiva para quem estiver por perto. Deve fazer um ataque contra um alvo mais próximo. 
+82 – O personagem urra como um animal enfurecido e morde quem encostar nele, desesperado. O dano da mordida e 1d4 perfuração. 
+83 – Os olhos do personagem começam a girar descontroladamente, deixando-o com vertigem. (Não pode conjurar rituais). 
+84 – O personagem tem uma vertigem fortíssima e vê que está tudo rodando, como se estivesse bêbado. (-10 no teste de perícia ou dt do ritual, não consegue usar rituais sustentados) 
+85 – O personagem vê sigilos surgindo em todo o seu corpo, cobrindo sua pele, e queimando a cada momento em que aparecem. 1 de dano de conhecimento por letra. (O mestre decide a palavra) 
+86 – O personagem enxerga alguém que morreu em sua família aparecer na distância e acenar para ele. Em seguida ele grita desesperado. Fica imobilizado. 
+87 – O personagem vê insetos saindo de sua própria boca e orelha. Não consegue ouvir ou falar. 
+89 – O personagem abre a boca e fica gritando, porém, nenhum som sai de sua boca. O personagem não consegue falar ou conjurar rituais. 
+90 – O personagem se desliga do presente e experiência uma memória feliz do passado como se estivesse acontecendo agora, e sorri. +1d4 de sanidade. 
+91 – O personagem entra em um frenesi de fúria e ataca seus aliados. Você deve atacar um aliado todo turno.
+92 – O personagem tem uma visão do fim do mundo, com tudo acabando em uma chuva de fogo. Fica pasmo. 
+93 – O personagem tem uma visão do fim do mundo, com criaturas gigantescas saindo dos mares e devorando a todos. Fica imóvel. 
+94 – O personagem vê tudo em preto e branco. [Daltonismo]
+95 – O personagem sente que o corpo todo está anestesiado, e difícil de mover. (Reduz à metade o deslocamento) 
+96 – O personagem sente calafrios horrendos na espinha, que o fazem mover o seu corpo violentamente. Corre em uma direção aleatória, faça um teste de atletismo (dt 15), caso não passe, caia. 
+97 – Sai ileso
+98 – Sai ileso
+99 – O personagem transcende e perde 1d4 sanidade
+100 – O personagem transcende e perde 1d4 de sanidade máxima
